@@ -1,0 +1,3 @@
+[submodule "team_agus_elixir"]
+	path = team_agus_elixir
+	url = git@github.com:MachinesAreUs/CodeCamp2017_elixir.git
