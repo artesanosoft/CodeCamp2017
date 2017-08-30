@@ -10,3 +10,6 @@
 [submodule "team_julio_java"]
 	path = team_julio_java
 	url = https://github.com/thegeekinside/CodeCamp2017
+[submodule "team_rodrigo_js"]
+	path = team_rodrigo_js
+	url = https://github.com/Ikana/code-camp-metro
