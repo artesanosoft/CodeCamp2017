@@ -7,3 +7,6 @@
 [submodule "team_jj_groovy"]
 	path = team_jj_groovy
 	url = git@github.com:artesanosoft/codecamp2017-groovy.git
+[submodule "team_julio_java"]
+	path = team_julio_java
+	url = https://github.com/thegeekinside/CodeCamp2017
