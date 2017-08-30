@@ -4,3 +4,6 @@
 [submodule "team_felipe_elixir"]
 	path = team_felipe_elixir
 	url = git@github.com:sohjiro/CodeCamp2017.git
+[submodule "team_jj_groovy"]
+	path = team_jj_groovy
+	url = git@github.com:artesanosoft/codecamp2017-groovy.git
